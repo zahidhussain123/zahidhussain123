@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 **Full-Stack Developer & Solution Architect**
+## 🚀 **Frontend Developer & Solution Architect**
 
 > *Transforming complex business requirements into scalable, high-performance web applications with 3+ years of expertise in modern JavaScript ecosystem*
 
@@ -27,6 +27,7 @@ const zahidHussain = {
         frontend: ["React.js", "Next.js", "TypeScript", "Svelte"],
         backend: ["Node.js", "Express.js"],
         databases: ["MongoDB", "MySql"],
+        stylings: ["TailwindCSS", "Bootstrap", "MaterialUI", "Styled-Components", "SASS]
     },
     
     currentFocus: "AI-Driven Web Applications & Performance Optimization",
