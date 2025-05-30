@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 Zahid Hussain | React.js Architect
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=React.js+Developer;Full-Stack+Developer;3%2B+Years+Experience;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=React.js+Developer;Frontend+Developer;3%2B+Years+Experience;Building+Scalable+Web+Solutions" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahid-hussain-850a80175/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/zahid-hussains-projects-64d62113)
@@ -85,20 +85,50 @@ const zahidHussain = {
 
 <div align="center">
 
+### **🛠️ Tech Stack Focus**
 ```mermaid
-graph LR
-    A[AI Integration] --> B[React Applications]
-    C[Performance Optimization] --> D[Web Vitals]
-    E[Serverless Architecture] --> F[Scalable Solutions]
-    G[GraphQL APIs] --> H[Efficient Data Flow]
-    
-    style A fill:#ff6b6b
-    style C fill:#4ecdc4
-    style E fill:#45b7d1
-    style G fill:#96ceb4
+mindmap
+  root((Tech Focus))
+    Frontend
+      Javascript
+      React.js
+      Next.js
+      TypeScript
+    Backend
+      Node.js
+      Express.js
+      AI APIs
+    Specialization
+      E-commerce
+      SaaS Platforms
+      Performance
+```
+
+### **📈 Learning Timeline**
+```mermaid
+timeline
+    title Professional Growth Path
+    Foundation : React Mastery
+               : Component Architecture
+    Backend Focus : Node.js Deep Dive
+                  : Full-Stack Development
+    AI Integration : OpenAI APIs
+                   : Intelligent Applications
+    Architecture : System Design
+                 : Scalability Solutions
 ```
 
 </div>
+
+**🔥 Active Learning Path:**
+- **Backend Ecosystem:** Node.js, Express.js, GraphQ
+- **AI Integration:** OpenAI APIs, intelligent user experiences
+- **Performance Engineering:** Bundle optimization, lazy loading strategies, SSR/SSG implementations
+
+**🏗️ Architecture Focus:**
+- Designing scalable e-commerce solutions with 99.9% uptime
+- Building multi-tenant SaaS platforms with role-based access
+- Legacy system modernization and performance bottleneck resolution
 
 **📚 Knowledge Sharing:**
 - Mentoring junior developers
@@ -135,17 +165,24 @@ graph LR
 
 [![LinkedIn](https://img.shields.io/badge/Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahid-hussain-850a80175/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/zahid-hussains-projects-64d62113)
-[![Email](https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@zahidhussain.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahid4307@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 **💡 "Code is poetry written for machines to understand and humans to admire."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=zahidhussain123&color=brightgreen&style=for-the-badge)
+
+
+<div align="center">
+
+**🎯 Ready to bring your vision to life?**
+
+[![Schedule Consultation](https://img.shields.io/badge/Schedule_Consultation-FF5722?style=for-the-badge&logo=calendar&logoColor=white)](mailto:zahid4307@gmail.com)
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahidhussain123?tab=repositories)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 </div>
-### 📸 About Me 
-[![pro.jpg](https://i.postimg.cc/FzZ33zx8/pro.jpg)](https://postimg.cc/zHyy1J6F)
 
 ---
 
