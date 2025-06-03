@@ -71,19 +71,50 @@ const zahidHussain = {
 
 <div align="center">
 
-### **🏢 Enterprise Solutions**
+### **🏢 Modern Designs**
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 <h4>📊 Admin Dashboard</h4>
 <img src="https://i.postimg.cc/T3r9RTjS/admin-dashboard.png" alt="Admin Dashboard" width="100%"/>
-<p><em>Comprehensive admin panel with advanced analytics and user management</em></p>
+<p><em>Comprehensive admin panel with advanced analytics</em></p>
 </td>
-<td width="50%">
+<td width="33%">
+<h4>🎯 Modern UI Hero</h4>
+<img src="https://i.postimg.cc/QtCrcCpz/modern-UIHero.png" alt="Modern UI Hero" width="100%"/>
+<p><em>Contemporary landing page design</em></p>
+</td>
+<td width="33%">
 <h4>🛒 E-commerce Platform</h4>
 <img src="https://i.postimg.cc/4d3bbVCk/ecommerce-UI.png" alt="E-commerce UI" width="100%"/>
-<p><em>Modern e-commerce interface with seamless user experience</em></p>
+<p><em>Modern e-commerce interface with seamless UX</em></p>
+</td>
+</tr>
+</table>
+
+### **🎯 GIG Admin Portal**
+
+<table>
+<tr>
+<td width="33%">
+<h4>📈 Main Dashboard</h4>
+<img src="https://i.postimg.cc/Y2Vbr0jS/gig-Admin-portal-dashboard.png" alt="GIG Admin Dashboard" width="100%"/>
+</td>
+<td width="33%">
+<h4>📊 Analytics View</h4>
+<img src="https://i.postimg.cc/BZ8RcdKX/gig-Admin-portal-dashboard2.png" alt="GIG Admin Dashboard 2" width="100%"/>
+</td>
+<td width="33%">
+<h4>📋 Policy Management</h4>
+<img src="https://i.postimg.cc/Px03R5wN/gig-Admin-portal-policy.png" alt="GIG Admin Policy" width="100%"/>
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+<h4>💼 B2B Dashboard</h4>
+<img src="https://i.postimg.cc/SNg8Stgf/gigb2b-dash.png" alt="GIG B2B Dashboard" width="60%"/>
+<p><em>Enterprise B2B management system</em></p>
 </td>
 </tr>
 </table>
@@ -92,61 +123,78 @@ const zahidHussain = {
 
 <table>
 <tr>
-<td width="33%">
+<td width="25%">
 <h4>✍️ Content Creation</h4>
 <img src="https://i.postimg.cc/MTr0sHxc/lusso-createpost.png" alt="Lusso Create Post" width="100%"/>
 </td>
-<td width="33%">
+<td width="25%">
 <h4>🎯 Creator Onboarding</h4>
 <img src="https://i.postimg.cc/PqXmTY5p/lusso-creatoronboard.png" alt="Lusso Creator Onboard" width="100%"/>
 </td>
-<td width="33%">
+<td width="25%">
 <h4>⚙️ Settings Panel</h4>
 <img src="https://i.postimg.cc/2jGVxXQP/lusso-settings.png" alt="Lusso Settings" width="100%"/>
 </td>
-</tr>
-<tr>
-<td colspan="3" align="center">
+<td width="25%">
 <h4>🔐 Authentication</h4>
-<img src="https://i.postimg.cc/fbq95qQz/lusso-login.png" alt="Lusso Login" width="60%"/>
-<p><em>Secure authentication system with modern UI design</em></p>
+<img src="https://i.postimg.cc/fbq95qQz/lusso-login.png" alt="Lusso Login" width="100%"/>
 </td>
 </tr>
 </table>
 
-### **🤝 Sharek - Referral Management System**
+### **🤝 Sharek - KFU Management System**
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 <h4>🚪 Login Interface</h4>
 <img src="https://i.postimg.cc/tTfP3ctW/sharek-login.png" alt="Sharek Login" width="100%"/>
 </td>
-<td width="50%">
+<td width="33%">
 <h4>📊 Dashboard Overview</h4>
 <img src="https://i.postimg.cc/28W7yYR4/sharek-dashboard.png" alt="Sharek Dashboard" width="100%"/>
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 <h4>📧 Inbox Management</h4>
 <img src="https://i.postimg.cc/8zBddbCc/sharek-inbox.png" alt="Sharek Inbox" width="100%"/>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <h4>📈 Referral Analytics</h4>
 <img src="https://i.postimg.cc/RVJXtffJ/sharek-referral-records.png" alt="Sharek Referral Records" width="100%"/>
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%">
 <h4>🔍 Advanced Search</h4>
-<img src="https://i.postimg.cc/1tYrn53K/sharek-advanchsearch.png" alt="Sharek Advanced Search" width="70%"/>
-<p><em>Powerful search functionality with filtering capabilities</em></p>
+<img src="https://i.postimg.cc/1tYrn53K/sharek-advanchsearch.png" alt="Sharek Advanced Search" width="100%"/>
 </td>
 </tr>
 </table>
 
-### **📚 Educational & Financial Solutions**
+### **💰 KFund - Financial Management Platform**
+
+<table>
+<tr>
+<td width="25%">
+<h4>📊 Dashboard</h4>
+<img src="https://i.postimg.cc/Kz7kd9KL/kfunddashboard.png" alt="KFund Dashboard" width="100%"/>
+</td>
+<td width="25%">
+<h4>👥 Groups Management</h4>
+<img src="https://i.postimg.cc/SxmZ55JL/kfundgroups.png" alt="KFund Groups" width="100%"/>
+</td>
+<td width="25%">
+<h4>👤 User Management</h4>
+<img src="https://i.postimg.cc/rpK92Lc4/kfundusers.png" alt="KFund Users" width="100%"/>
+</td>
+<td width="25%">
+<h4>📋 Request Handling</h4>
+<img src="https://i.postimg.cc/TY1192cn/kfundrequest.png" alt="KFund Requests" width="100%"/>
+</td>
+</tr>
+</table>
+
+### **📚 Educational Solutions**
 
 <table>
 <tr>
@@ -163,17 +211,19 @@ const zahidHussain = {
 <td width="33%">
 <h4>📖 Learning Dashboard</h4>
 <img src="https://i.postimg.cc/sg7B5fwJ/educato-box2.png" alt="EducatoBox Dashboard" width="100%"/>
-<p><em>Student progress tracking</em></p>
+<p><em>Questions for Students</em></p>
 </td>
 </tr>
 </table>
 
 **🏆 Project Highlights:**
+- **Enterprise-Grade Solutions** with scalable architecture
+- **Real-time Analytics** and comprehensive dashboards
+- **Multi-tenant SaaS Platforms** with role-based access
 - **Modern UI/UX Design** with responsive layouts
-- **Real-time Data Management** and analytics
-- **Secure Authentication** systems
-- **Performance Optimized** applications
-- **Cross-platform Compatibility**
+- **Secure Authentication** and authorization systems
+- **Performance Optimized** applications with 99.9% uptime
+- **Cross-platform Compatibility** and mobile responsiveness
 
 </div>
 
