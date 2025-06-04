@@ -71,7 +71,7 @@ const zahidHussain = {
 
 <div align="center">
 
-### **🏢 Modern Designs**
+### **🏢 Modern Enterprise Designs**
 
 <table>
 <tr>
@@ -81,7 +81,7 @@ const zahidHussain = {
 <p><em>Comprehensive admin panel with advanced analytics</em></p>
 </td>
 <td width="33%">
-<h4>🎯 Modern UI Hero</h4>
+<h4>🎯 Modern UI Landing Page</h4>
 <img src="https://i.postimg.cc/QtCrcCpz/modern-UIHero.png" alt="Modern UI Hero" width="100%"/>
 <p><em>Contemporary landing page design</em></p>
 </td>
@@ -93,51 +93,41 @@ const zahidHussain = {
 </tr>
 </table>
 
-### **🎯 GIG Admin Portal**
+### **💎 Lusso - Labs Creator Platform**
 
 <table>
 <tr>
-<td width="33%">
-<h4>📈 Main Dashboard</h4>
-<img src="https://i.postimg.cc/Y2Vbr0jS/gig-Admin-portal-dashboard.png" alt="GIG Admin Dashboard" width="100%"/>
+<td width="20%">
+<h4>🤖 Lusso landing Page</h4>
+<img src="https://i.postimg.cc/yxq2qYB9/lussoai.png" alt="Lusso AI" width="100%"/>
+<p><em>Landing Page content creation</em></p>
 </td>
-<td width="33%">
-<h4>📊 Analytics View</h4>
-<img src="https://i.postimg.cc/BZ8RcdKX/gig-Admin-portal-dashboard2.png" alt="GIG Admin Dashboard 2" width="100%"/>
+<td width="20%">
+<h4>📅 Schedule/Publish/Auto Posts</h4>
+<img src="https://i.postimg.cc/9f9hgymp/lusso-schedulepost.png" alt="Lusso Schedule Post" width="100%"/>
+<p><em>Advanced scheduling system</em></p>
 </td>
-<td width="33%">
-<h4>📋 Policy Management</h4>
-<img src="https://i.postimg.cc/Px03R5wN/gig-Admin-portal-policy.png" alt="GIG Admin Policy" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-<h4>💼 B2B Dashboard</h4>
-<img src="https://i.postimg.cc/SNg8Stgf/gigb2b-dash.png" alt="GIG B2B Dashboard" width="60%"/>
-<p><em>Enterprise B2B management system</em></p>
-</td>
-</tr>
-</table>
-
-### **💎 Lusso - Creator Platform**
-
-<table>
-<tr>
-<td width="25%">
+<td width="20%">
 <h4>✍️ Content Creation</h4>
 <img src="https://i.postimg.cc/MTr0sHxc/lusso-createpost.png" alt="Lusso Create Post" width="100%"/>
+<p><em>Selecting dates for Scheduling Posts </em></p>
 </td>
-<td width="25%">
+<td width="20%">
 <h4>🎯 Creator Onboarding</h4>
 <img src="https://i.postimg.cc/PqXmTY5p/lusso-creatoronboard.png" alt="Lusso Creator Onboard" width="100%"/>
+<p><em>Streamlined onboarding</em></p>
 </td>
-<td width="25%">
+<td width="20%">
 <h4>⚙️ Settings Panel</h4>
 <img src="https://i.postimg.cc/2jGVxXQP/lusso-settings.png" alt="Lusso Settings" width="100%"/>
+<p><em>Comprehensive settings</em></p>
 </td>
-<td width="25%">
-<h4>🔐 Authentication</h4>
-<img src="https://i.postimg.cc/fbq95qQz/lusso-login.png" alt="Lusso Login" width="100%"/>
+</tr>
+<tr>
+<td colspan="5" align="center">
+<h4>🔐 Authentication System</h4>
+<img src="https://i.postimg.cc/fbq95qQz/lusso-login.png" alt="Lusso Login" width="40%"/>
+<p><em>Secure authentication with modern design</em></p>
 </td>
 </tr>
 </table>
@@ -146,27 +136,48 @@ const zahidHussain = {
 
 <table>
 <tr>
-<td width="33%">
+<td width="20%">
 <h4>🚪 Login Interface</h4>
 <img src="https://i.postimg.cc/tTfP3ctW/sharek-login.png" alt="Sharek Login" width="100%"/>
 </td>
-<td width="33%">
+<td width="20%">
 <h4>📊 Dashboard Overview</h4>
 <img src="https://i.postimg.cc/28W7yYR4/sharek-dashboard.png" alt="Sharek Dashboard" width="100%"/>
 </td>
-<td width="33%">
+<td width="20%">
 <h4>📧 Inbox Management</h4>
 <img src="https://i.postimg.cc/8zBddbCc/sharek-inbox.png" alt="Sharek Inbox" width="100%"/>
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="20%">
 <h4>📈 Referral Analytics</h4>
 <img src="https://i.postimg.cc/RVJXtffJ/sharek-referral-records.png" alt="Sharek Referral Records" width="100%"/>
 </td>
-<td width="50%">
+<td width="20%">
 <h4>🔍 Advanced Search</h4>
 <img src="https://i.postimg.cc/1tYrn53K/sharek-advanchsearch.png" alt="Sharek Advanced Search" width="100%"/>
+</td>
+</tr>
+</table>
+
+### **🎯 GIG Admin Portal**
+
+<table>
+<tr>
+<td width="25%">
+<h4>📈 Main Dashboard</h4>
+<img src="https://i.postimg.cc/Y2Vbr0jS/gig-Admin-portal-dashboard.png" alt="GIG Admin Dashboard" width="100%"/>
+</td>
+<td width="25%">
+<h4>📊 Analytics View</h4>
+<img src="https://i.postimg.cc/BZ8RcdKX/gig-Admin-portal-dashboard2.png" alt="GIG Admin Dashboard 2" width="100%"/>
+</td>
+<td width="25%">
+<h4>📋 Policy Management</h4>
+<img src="https://i.postimg.cc/Px03R5wN/gig-Admin-portal-policy.png" alt="GIG Admin Policy" width="100%"/>
+</td>
+<td width="25%">
+<h4>💼 B2B Dashboard</h4>
+<img src="https://i.postimg.cc/SNg8Stgf/gigb2b-dash.png" alt="GIG B2B Dashboard" width="100%"/>
 </td>
 </tr>
 </table>
@@ -198,26 +209,31 @@ const zahidHussain = {
 
 <table>
 <tr>
-<td width="33%">
+<td width="25%">
 <h4>💰 Cryptocurrency Tracker</h4>
 <img src="https://i.postimg.cc/q7w9Fn1M/cryptocurrency-project.png" alt="Cryptocurrency Project" width="100%"/>
 <p><em>Real-time crypto market tracking</em></p>
 </td>
-<td width="33%">
+<td width="25%">
 <h4>🎓 EducatoBox Platform</h4>
 <img src="https://i.postimg.cc/L6qg63Pw/educato-box.png" alt="EducatoBox" width="100%"/>
 <p><em>Interactive learning platform</em></p>
 </td>
-<td width="33%">
+<td width="25%">
 <h4>📖 Learning Dashboard</h4>
-<img src="https://i.postimg.cc/sg7B5fwJ/educato-box2.png" alt="EducatoBox Dashboard" width="100%"/>
-<p><em>Questions for Students</em></p>
+<img src="https://i.postimg.cc/QC9b722N/educato-ezgif-com-video-to-gif-converter.gif" alt="EducatoBox Dashboard" width="100%"/>
+<p><em>Student assessment system</em></p>
+</td>
+<td width="25%">
+<h4>⛽ Gaskon Platform</h4>
+<img src="https://i.postimg.cc/gcqZLS5q/gaskon.png" alt="Gaskon" width="100%"/>
 </td>
 </tr>
 </table>
 
 **🏆 Project Highlights:**
 - **Enterprise-Grade Solutions** with scalable architecture
+- **AI-Powered Features** and intelligent automation
 - **Real-time Analytics** and comprehensive dashboards
 - **Multi-tenant SaaS Platforms** with role-based access
 - **Modern UI/UX Design** with responsive layouts
