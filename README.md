@@ -182,7 +182,7 @@ const zahidHussain = {
 </tr>
 </table>
 
-### **💰 KFund - Financial Management Platform**
+### **💰 KFund - Kuwait Fund**
 
 <table>
 <tr>
