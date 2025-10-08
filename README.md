@@ -27,7 +27,7 @@ const zahidHussain = {
         frontend: ["React.js", "Next.js", "TypeScript", "Svelte"],
         backend: ["Node.js", "Express.js"],
         databases: ["MongoDB", "MySql"],
-        stylings: ["TailwindCSS", "Bootstrap", "MaterialUI", "Styled-Components", "SASS]
+        stylings: ["TailwindCSS", "Bootstrap", "MaterialUI", "Styled-Components", "SASS"]
     },
     
     currentFocus: "AI-Driven Web Applications & Performance Optimization",
@@ -78,7 +78,7 @@ const zahidHussain = {
 <td width="33%">
 <h4>📊 Admin Dashboard</h4>
 <img src="https://i.postimg.cc/T3r9RTjS/admin-dashboard.png" alt="Admin Dashboard" width="100%"/>
-<p><em>Comprehensive admin panel with advanced analytics</em></p>
+<p><em>Admin Dashboard</em></p>
 </td>
 <td width="33%">
 <h4>🎯 Modern UI Landing Page</h4>
@@ -182,7 +182,7 @@ const zahidHussain = {
 </tr>
 </table>
 
-### **💰 KFund - Kuwait Fund**
+### **💰 Helpdesk Application - Kuwait Fund**
 
 <table>
 <tr>
@@ -233,8 +233,6 @@ const zahidHussain = {
 
 **🏆 Project Highlights:**
 - **Enterprise-Grade Solutions** with scalable architecture
-- **AI-Powered Features** and intelligent automation
-- **Real-time Analytics** and comprehensive dashboards
 - **Multi-tenant SaaS Platforms** with role-based access
 - **Modern UI/UX Design** with responsive layouts
 - **Secure Authentication** and authorization systems
@@ -289,8 +287,6 @@ timeline
                : Component Architecture
     Backend Focus : Node.js Deep Dive
                   : Full-Stack Development
-    AI Integration : OpenAI APIs
-                   : Intelligent Applications
     Architecture : System Design
                  : Scalability Solutions
 ```
@@ -298,8 +294,7 @@ timeline
 </div>
 
 **🔥 Active Learning Path:**
-- **Backend Ecosystem:** Node.js, Express.js, GraphQ
-- **AI Integration:** OpenAI APIs, intelligent user experiences
+- **Backend Ecosystem:** Node.js, Express.js
 - **Performance Engineering:** Bundle optimization, lazy loading strategies, SSR/SSG implementations
 
 **🏗️ Architecture Focus:**
