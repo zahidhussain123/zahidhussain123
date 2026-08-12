@@ -1,361 +1,271 @@
 <div align="center">
-  
-# 💫 Zahid Hussain | React.js Architect
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=React.js+Developer;Frontend+Developer;3%2B+Years+Experience;Building+Scalable+Web+Solutions" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahid-hussain-850a80175/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://zahid-portfolio-ten.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahid.husyn.dev@gmail.com)
+# Zahid Hussain
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+### Frontend Engineer | React.js • Next.js • TypeScript
 
-</div>
+Building scalable, secure, and user-focused web applications for complex business requirements.
 
----
-
-## 🚀 **Frontend Developer & Solution Architect**
-
-> *Transforming complex business requirements into scalable, high-performance web applications with 3+ years of expertise in modern JavaScript ecosystem*
-
-```javascript
-const zahidHussain = {
-    role: "React.js Architect",
-    experience: "3+ years",
-    languages: ["English", "Urdu", "Pashtu"],
-    
-    expertise: {
-        frontend: ["React.js", "Next.js", "TypeScript", "Svelte"],
-        backend: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "MySql"],
-        stylings: ["TailwindCSS", "Bootstrap", "MaterialUI", "Styled-Components", "SASS"]
-    },
-    
-    currentFocus: "AI-Driven Web Applications & Performance Optimization",
-    philosophy: "Clean Code. Scalable Architecture. User-Centric Design."
-};
-```
-
----
-
-## 🛠️ **Technology Arsenal**
-
-<div align="center">
-
-### **Frontend Mastery**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### **Styling & UI**
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahid-hussain-850a80175/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://zahid-portfolio-ten.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zahidhussain123)
 
 </div>
 
 ---
 
-## 🎨 **Featured Project Showcase**
+## 👋 About Me
+
+I'm a **Frontend Engineer specializing in React.js, Next.js, and TypeScript**, focused on building production-ready web applications that are scalable, maintainable, and easy to use.
+
+My experience includes working on **enterprise management systems, SaaS platforms, dashboards, administrative portals, educational platforms, and AI-driven applications**.
+
+I enjoy turning complex business requirements into clean frontend architecture, reusable components, intuitive user experiences, and reliable application workflows.
+
+### What I work on
+
+- ⚛️ React.js and Next.js applications
+- 🧩 Reusable component architecture
+- 🔐 Authentication, authorization and RBAC
+- 🌐 REST API integration and data-driven interfaces
+- 📊 Enterprise dashboards and analytics
+- 🌍 RTL, localization and multilingual interfaces
+- ⚡ Performance optimization and responsive UI
+- 🤖 AI-powered web application interfaces
+- 🔄 Real-time and workflow-driven applications
+
+---
+
+## 🛠️ Core Technology Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+### State & Data
+
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+### UI & Styling
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Engineering & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🏗️ Engineering Focus
+
+I particularly enjoy solving problems around:
+
+| Area | What I build |
+|---|---|
+| **Frontend Architecture** | Scalable component systems, reusable patterns and maintainable application structure |
+| **Enterprise Applications** | Dashboards, admin portals, management systems and complex business workflows |
+| **Authentication & Security** | Authentication flows, authorization, RBAC and secure API integration |
+| **Data & APIs** | REST API integration, server state management and data-driven interfaces |
+| **Internationalization** | RTL/LTR interfaces, multilingual applications and localization |
+| **Performance** | Rendering strategies, code splitting, lazy loading and frontend optimization |
+| **AI Applications** | AI-powered interfaces, content workflows and intelligent web applications |
+
+---
+
+## 🚀 Selected Projects
+
+### 🏢 Enterprise Management Systems
+
+#### KFU Sharek Management System
+
+Enterprise management platform designed around complex organizational workflows.
+
+**Key areas:**
+
+- Dashboard and analytics
+- Referral and request management
+- Inbox workflows
+- Advanced search
+- Role-based functionality
+- Authentication and authorization
+- Responsive and multilingual interfaces
+
+**Focus:** React.js • Enterprise UI • API Integration • RBAC • RTL/i18n
+
+---
+
+#### GIG Admin Portal
+
+Administrative platform supporting business operations and management workflows.
+
+**Key areas:**
+
+- Analytics dashboards
+- Policy management
+- B2B workflows
+- Data visualization
+- Complex forms
+- API-driven business operations
+
+**Focus:** React.js • Next.js • TypeScript • Dashboards • REST APIs
+
+---
+
+### 🤖 AI & SaaS Applications
+
+#### Lusso Labs
+
+Creator-focused platform for managing AI-assisted content workflows.
+
+**Key areas:**
+
+- Creator onboarding
+- Content creation
+- Post scheduling
+- Publishing workflows
+- Authentication
+- Settings management
+- AI-driven content experiences
+
+**Focus:** React.js • Next.js • TypeScript • AI APIs • Scheduling • Authentication
+
+---
+
+### 💼 Helpdesk & Business Applications
+
+#### Kuwait Fund Helpdesk
+
+Business helpdesk application supporting structured request and user management workflows.
+
+**Key areas:**
+
+- Dashboard
+- User management
+- Groups and permissions
+- Request handling
+- Administrative workflows
+
+**Focus:** React.js • API Integration • Role-based workflows • Business UI
+
+---
+
+## 📸 Project Preview
 
 <div align="center">
-
-### **🏢 Modern Enterprise Designs**
 
 <table>
 <tr>
-<td width="33%">
-<h4>📊 Admin Dashboard</h4>
+<td width="50%">
+
+### Admin Dashboard
+
 <img src="https://i.postimg.cc/T3r9RTjS/admin-dashboard.png" alt="Admin Dashboard" width="100%"/>
-<p><em>Admin Dashboard</em></p>
+
 </td>
-<td width="33%">
-<h4>🎯 Modern UI Landing Page</h4>
-<img src="https://i.postimg.cc/QtCrcCpz/modern-UIHero.png" alt="Modern UI Hero" width="100%"/>
-<p><em>Contemporary landing page design</em></p>
+
+<td width="50%">
+
+### GIG Admin Portal
+
+<img src="https://i.postimg.cc/Y2Vbr0jS/gig-Admin-portal-dashboard.png" alt="GIG Admin Portal" width="100%"/>
+
 </td>
-<td width="33%">
-<h4>🛒 E-commerce Platform</h4>
-<img src="https://i.postimg.cc/4d3bbVCk/ecommerce-UI.png" alt="E-commerce UI" width="100%"/>
-<p><em>Modern e-commerce interface with seamless UX</em></p>
+</tr>
+
+<tr>
+<td width="50%">
+
+### KFU Sharek
+
+<img src="https://i.postimg.cc/28W7yYR4/sharek-dashboard.png" alt="KFU Sharek Dashboard" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+### Lusso Labs
+
+<img src="https://i.postimg.cc/yxq2qYB9/lussoai.png" alt="Lusso Labs" width="100%"/>
+
 </td>
 </tr>
 </table>
-
-### **💎 Lusso - Labs Creator Platform**
-
-<table>
-<tr>
-<td width="20%">
-<h4>🤖 Lusso landing Page</h4>
-<img src="https://i.postimg.cc/yxq2qYB9/lussoai.png" alt="Lusso AI" width="100%"/>
-<p><em>Landing Page content creation</em></p>
-</td>
-<td width="20%">
-<h4>📅 Schedule/Publish/Auto Posts</h4>
-<img src="https://i.postimg.cc/9f9hgymp/lusso-schedulepost.png" alt="Lusso Schedule Post" width="100%"/>
-<p><em>Advanced scheduling system</em></p>
-</td>
-<td width="20%">
-<h4>✍️ Content Creation</h4>
-<img src="https://i.postimg.cc/MTr0sHxc/lusso-createpost.png" alt="Lusso Create Post" width="100%"/>
-<p><em>Selecting dates for Scheduling Posts </em></p>
-</td>
-<td width="20%">
-<h4>🎯 Creator Onboarding</h4>
-<img src="https://i.postimg.cc/PqXmTY5p/lusso-creatoronboard.png" alt="Lusso Creator Onboard" width="100%"/>
-<p><em>Streamlined onboarding</em></p>
-</td>
-<td width="20%">
-<h4>⚙️ Settings Panel</h4>
-<img src="https://i.postimg.cc/2jGVxXQP/lusso-settings.png" alt="Lusso Settings" width="100%"/>
-<p><em>Comprehensive settings</em></p>
-</td>
-</tr>
-<tr>
-<td colspan="5" align="center">
-<h4>🔐 Authentication System</h4>
-<img src="https://i.postimg.cc/fbq95qQz/lusso-login.png" alt="Lusso Login" width="40%"/>
-<p><em>Secure authentication with modern design</em></p>
-</td>
-</tr>
-</table>
-
-### **🤝 Sharek - KFU Management System**
-
-<table>
-<tr>
-<td width="20%">
-<h4>🚪 Login Interface</h4>
-<img src="https://i.postimg.cc/tTfP3ctW/sharek-login.png" alt="Sharek Login" width="100%"/>
-</td>
-<td width="20%">
-<h4>📊 Dashboard Overview</h4>
-<img src="https://i.postimg.cc/28W7yYR4/sharek-dashboard.png" alt="Sharek Dashboard" width="100%"/>
-</td>
-<td width="20%">
-<h4>📧 Inbox Management</h4>
-<img src="https://i.postimg.cc/8zBddbCc/sharek-inbox.png" alt="Sharek Inbox" width="100%"/>
-</td>
-<td width="20%">
-<h4>📈 Referral Analytics</h4>
-<img src="https://i.postimg.cc/RVJXtffJ/sharek-referral-records.png" alt="Sharek Referral Records" width="100%"/>
-</td>
-<td width="20%">
-<h4>🔍 Advanced Search</h4>
-<img src="https://i.postimg.cc/1tYrn53K/sharek-advanchsearch.png" alt="Sharek Advanced Search" width="100%"/>
-</td>
-</tr>
-</table>
-
-### **🎯 GIG Admin Portal**
-
-<table>
-<tr>
-<td width="25%">
-<h4>📈 Main Dashboard</h4>
-<img src="https://i.postimg.cc/Y2Vbr0jS/gig-Admin-portal-dashboard.png" alt="GIG Admin Dashboard" width="100%"/>
-</td>
-<td width="25%">
-<h4>📊 Analytics View</h4>
-<img src="https://i.postimg.cc/BZ8RcdKX/gig-Admin-portal-dashboard2.png" alt="GIG Admin Dashboard 2" width="100%"/>
-</td>
-<td width="25%">
-<h4>📋 Policy Management</h4>
-<img src="https://i.postimg.cc/Px03R5wN/gig-Admin-portal-policy.png" alt="GIG Admin Policy" width="100%"/>
-</td>
-<td width="25%">
-<h4>💼 B2B Dashboard</h4>
-<img src="https://i.postimg.cc/SNg8Stgf/gigb2b-dash.png" alt="GIG B2B Dashboard" width="100%"/>
-</td>
-</tr>
-</table>
-
-### **💰 Helpdesk Application - Kuwait Fund**
-
-<table>
-<tr>
-<td width="25%">
-<h4>📊 Dashboard</h4>
-<img src="https://i.postimg.cc/Kz7kd9KL/kfunddashboard.png" alt="KFund Dashboard" width="100%"/>
-</td>
-<td width="25%">
-<h4>👥 Groups Management</h4>
-<img src="https://i.postimg.cc/SxmZ55JL/kfundgroups.png" alt="KFund Groups" width="100%"/>
-</td>
-<td width="25%">
-<h4>👤 User Management</h4>
-<img src="https://i.postimg.cc/rpK92Lc4/kfundusers.png" alt="KFund Users" width="100%"/>
-</td>
-<td width="25%">
-<h4>📋 Request Handling</h4>
-<img src="https://i.postimg.cc/TY1192cn/kfundrequest.png" alt="KFund Requests" width="100%"/>
-</td>
-</tr>
-</table>
-
-### **📚 Educational Solutions**
-
-<table>
-<tr>
-<td width="25%">
-<h4>💰 Cryptocurrency Tracker</h4>
-<img src="https://i.postimg.cc/q7w9Fn1M/cryptocurrency-project.png" alt="Cryptocurrency Project" width="100%"/>
-<p><em>Real-time crypto market tracking</em></p>
-</td>
-<td width="25%">
-<h4>🎓 EducatoBox Platform</h4>
-<img src="https://i.postimg.cc/L6qg63Pw/educato-box.png" alt="EducatoBox" width="100%"/>
-<p><em>Interactive learning platform</em></p>
-</td>
-<td width="25%">
-<h4>📖 Learning Dashboard</h4>
-<img src="https://i.postimg.cc/QC9b722N/educato-ezgif-com-video-to-gif-converter.gif" alt="EducatoBox Dashboard" width="100%"/>
-<p><em>Student assessment system</em></p>
-</td>
-<td width="25%">
-<h4>⛽ Gaskon Platform</h4>
-<img src="https://i.postimg.cc/gcqZLS5q/gaskon.png" alt="Gaskon" width="100%"/>
-</td>
-</tr>
-</table>
-
-**🏆 Project Highlights:**
-- **Enterprise-Grade Solutions** with scalable architecture
-- **Multi-tenant SaaS Platforms** with role-based access
-- **Modern UI/UX Design** with responsive layouts
-- **Secure Authentication** and authorization systems
-- **Performance Optimized** applications with 99.9% uptime
-- **Cross-platform Compatibility** and mobile responsiveness
 
 </div>
 
 ---
 
-## 📊 **Performance Metrics**
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahidhussain123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhussain123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zahidhussain123&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidhussain123&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhussain123&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 🎯 **Current Focus & Innovation**
+## 📚 Currently Exploring
 
-<div align="center">
+I'm continuously improving my engineering skills in areas such as:
 
-### **🛠️ Tech Stack Focus**
-```mermaid
-mindmap
-  root((Tech Focus))
-    Frontend
-      Javascript
-      React.js
-      Next.js
-      TypeScript
-    Backend
-      Node.js
-      Express.js
-      AI APIs
-    Specialization
-      E-commerce
-      SaaS Platforms
-      Performance
-```
-
-### **📈 Learning Timeline**
-```mermaid
-timeline
-    title Professional Growth Path
-    Foundation : React Mastery
-               : Component Architecture
-    Backend Focus : Node.js Deep Dive
-                  : Full-Stack Development
-    Architecture : System Design
-                 : Scalability Solutions
-```
-
-</div>
-
-**🔥 Active Learning Path:**
-- **Backend Ecosystem:** Node.js, Express.js
-- **Performance Engineering:** Bundle optimization, lazy loading strategies, SSR/SSG implementations
-
-**🏗️ Architecture Focus:**
-- Designing scalable e-commerce solutions with 99.9% uptime
-- Building multi-tenant SaaS platforms with role-based access
-- Legacy system modernization and performance bottleneck resolution
-
-**📚 Knowledge Sharing:**
-- Mentoring junior developers
+- Advanced React and Next.js architecture
+- Frontend performance engineering
+- Server-side rendering and modern rendering strategies
+- Scalable state and data management
+- AI-powered web applications
+- System design and frontend architecture
+- Full-stack JavaScript development
 
 ---
 
-## 🌟 **Professional Philosophy**
+## 🤝 Let's Connect
+
+I'm interested in:
+
+- Building React.js and Next.js applications
+- Enterprise frontend development
+- SaaS and dashboard applications
+- AI-powered web applications
+- Frontend architecture and modernization
+- Freelance and consulting opportunities
+- Collaborating on interesting engineering projects
 
 <div align="center">
 
-> *"Excellence in software development isn't just about writing code—it's about crafting solutions that scale, perform, and delight users while maintaining architectural integrity."*
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahid-hussain-850a80175/)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://zahid-portfolio-ten.vercel.app)
+
+[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahidhussain123)
 
 </div>
 
 ---
 
-## 📈 **GitHub Activity Graph**
-
 <div align="center">
 
-[![Zahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zahidhussain123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Thanks for visiting 👋
+
+**Building software that solves real problems, scales with the business, and stays maintainable.**
 
 </div>
-
----
-
-## 🤝 **Let's Build Something Amazing Together**
-
-<div align="center">
-
-**🚀 Available for  React.js positions and enterprise consulting**
-
-[![LinkedIn](https://img.shields.io/badge/Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahid-hussain-850a80175/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/zahid-hussains-projects-64d62113)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahid4307@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-**💡 "Code is poetry written for machines to understand and humans to admire."**
-
-
-
-<div align="center">
-
-**🎯 Ready to bring your vision to life?**
-
-[![Schedule Consultation](https://img.shields.io/badge/Schedule_Consultation-FF5722?style=for-the-badge&logo=calendar&logoColor=white)](mailto:zahid4307@gmail.com)
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahidhussain123?tab=repositories)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-</div>
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate. 🚀
